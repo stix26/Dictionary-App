@@ -15,3 +15,5 @@ Step 5: (Mac & Windows 10 Users) Go to your downloads folder and move the app1.p
 Step 6: (Mac Users) (Type) python3 app1.py  and press enter (Windows 10 Users) (Type) python3 app1.py and press enter. 
 
 Step 7: Enter any word listed in the english dictionary.
+
+https://youtu.be/UhSU4y0Tqlk
